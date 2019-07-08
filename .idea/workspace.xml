@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39697ef3-075a-4221-aee5-071645cfd2d3" name="Default Changelist" comment="" />
+    <list default="true" id="39697ef3-075a-4221-aee5-071645cfd2d3" name="Default Changelist" comment="第一个文件">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,36 +46,17 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DRFdemo1/urls.py">
+        <entry file="file://$PROJECT_DIR$/stuapp/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
-              <folding>
-                <element signature="e#632#664#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="200">
+              <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/stuapp/models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stuapp/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="21" column="8" lean-forward="true" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
-              <folding>
-                <element signature="e#0#48#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/stuapp/myfilter.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -90,9 +73,19 @@
       <find>pk</find>
     </findStrings>
   </component>
+  <component name="Git.Rebase.Settings">
+    <option name="ONTO" value="refs/heads/master" />
+  </component>
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -103,16 +96,10 @@
         <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
         <option value="$PROJECT_DIR$/stuapp/serializers.py" />
         <option value="$PROJECT_DIR$/DRFdemo1/urls.py" />
-        <option value="$PROJECT_DIR$/stuapp/models.py" />
         <option value="$PROJECT_DIR$/stuapp/tests.py" />
         <option value="$PROJECT_DIR$/stuapp/views.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/stuapp/models.py" />
+        <option value="$PROJECT_DIR$/stuapp/myfilter.py" />
       </list>
     </option>
   </component>
@@ -139,7 +126,7 @@
             <path>
               <item name="DRFdemo1" type="b2602c69:ProjectViewProjectNode" />
               <item name="DRFdemo1" type="462c0819:PsiDirectoryNode" />
-              <item name="DRFdemo1" type="462c0819:PsiDirectoryNode" />
+              <item name="stuapp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -242,7 +229,7 @@
       <workItem from="1562204596424" duration="4347000" />
       <workItem from="1562222756322" duration="15450000" />
       <workItem from="1562288904902" duration="9651000" />
-      <workItem from="1562571787332" duration="2161000" />
+      <workItem from="1562571787332" duration="3845000" />
     </task>
     <task id="LOCAL-00001" summary="第一个文件">
       <created>1562575815575</created>
@@ -251,16 +238,31 @@
       <option name="project" value="LOCAL" />
       <updated>1562575815575</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="第一个文件">
+      <created>1562576112696</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1562576112697</updated>
+    </task>
+    <task id="LOCAL-00003" summary="第一个文件">
+      <created>1562577321135</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1562577321135</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33074000" />
+    <option name="totallyTimeSpent" value="34758000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.66045547" visible="true" weight="0.117962465" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.66045547" visible="true" weight="0.117962465" />
       <window_info id="Structure" order="1" sideWeight="0.3395445" side_tool="true" weight="0.117962465" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -272,11 +274,11 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Console" order="7" weight="0.329429" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" sideWeight="0.49932975" visible="true" weight="0.32991204" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49798927" visible="true" weight="0.32991204" />
       <window_info anchor="bottom" id="Database Changes" order="10" sideWeight="0.49932975" weight="0.32991204" />
       <window_info anchor="bottom" id="manage.py@DRFdemo1" order="11" weight="0.329429" />
       <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49932975" weight="0.1744868" />
-      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50067025" side_tool="true" visible="true" weight="0.32991204" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5020107" side_tool="true" weight="0.32991204" />
       <window_info anchor="bottom" id="Python Console" order="14" sideWeight="0.49865952" weight="0.32991204" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -287,6 +289,16 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一个文件" />
@@ -480,10 +492,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/stuapp/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        <state relative-caret-position="200">
+          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stuapp/myfilter.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
