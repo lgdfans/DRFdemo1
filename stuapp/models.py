@@ -1,7 +1,7 @@
 from django.db import models
 
 # Create your models here.
-'''以一个演员可以出演多部影片为例'''
+'''以一个演员可以出演多部'''
 
 
 class Actor(models.Model):
