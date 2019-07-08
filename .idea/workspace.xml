@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39697ef3-075a-4221-aee5-071645cfd2d3" name="Default Changelist" comment="第一个文件">
+    <list default="true" id="39697ef3-075a-4221-aee5-071645cfd2d3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stuapp/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/stuapp/tests.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,9 +55,34 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stuapp/myfilter.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/stuapp/tests.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stuapp/serializers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="355">
+              <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -81,10 +107,7 @@
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="PUSH_TAGS">
-      <GitPushTagMode>
-        <option name="argument" value="--follow-tags" />
-        <option name="title" value="Current Branch" />
-      </GitPushTagMode>
+      <GitPushTagMode />
     </option>
   </component>
   <component name="IdeDocumentHistory">
@@ -96,10 +119,10 @@
         <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
         <option value="$PROJECT_DIR$/stuapp/serializers.py" />
         <option value="$PROJECT_DIR$/DRFdemo1/urls.py" />
-        <option value="$PROJECT_DIR$/stuapp/tests.py" />
         <option value="$PROJECT_DIR$/stuapp/views.py" />
         <option value="$PROJECT_DIR$/stuapp/models.py" />
         <option value="$PROJECT_DIR$/stuapp/myfilter.py" />
+        <option value="$PROJECT_DIR$/stuapp/tests.py" />
       </list>
     </option>
   </component>
@@ -162,7 +185,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Django server.DRFdemo1">
+  <component name="RunManager" selected="Python.tests">
     <configuration name="tests" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DRFdemo1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -229,7 +252,7 @@
       <workItem from="1562204596424" duration="4347000" />
       <workItem from="1562222756322" duration="15450000" />
       <workItem from="1562288904902" duration="9651000" />
-      <workItem from="1562571787332" duration="3845000" />
+      <workItem from="1562571787332" duration="8225000" />
     </task>
     <task id="LOCAL-00001" summary="第一个文件">
       <created>1562575815575</created>
@@ -252,15 +275,28 @@
       <option name="project" value="LOCAL" />
       <updated>1562577321135</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="更新了文件">
+      <created>1562577599536</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1562577599536</updated>
+    </task>
+    <task id="LOCAL-00005" summary="第一个文件">
+      <created>1562577705545</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1562577705545</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34758000" />
+    <option name="totallyTimeSpent" value="39138000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.66045547" visible="true" weight="0.117962465" />
       <window_info id="Structure" order="1" sideWeight="0.3395445" side_tool="true" weight="0.117962465" />
@@ -274,7 +310,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Console" order="7" weight="0.329429" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49798927" visible="true" weight="0.32991204" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49798927" weight="0.32991204" />
       <window_info anchor="bottom" id="Database Changes" order="10" sideWeight="0.49932975" weight="0.32991204" />
       <window_info anchor="bottom" id="manage.py@DRFdemo1" order="11" weight="0.329429" />
       <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49932975" weight="0.1744868" />
@@ -301,11 +337,12 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="更新了文件" />
     <MESSAGE value="第一个文件" />
     <option name="LAST_COMMIT_MESSAGE" value="第一个文件" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/DRFdemo1$tests.coverage" NAME="tests Coverage Results" MODIFIED="1562571957629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stuapp" />
+    <SUITE FILE_PATH="coverage/DRFdemo1$tests.coverage" NAME="tests Coverage Results" MODIFIED="1562581087743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stuapp" />
   </component>
   <component name="editorHistoryManager">
     <entry file="das://fabdd214-2c07-42bc-8efe-faaf99c19232/schema/main/table/stuapp_movie">
@@ -398,16 +435,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stuapp/serializers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../demo3/venv/Lib/site-packages/django/shortcuts.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="241">
@@ -443,13 +470,6 @@
           <folding>
             <element signature="e#0#37#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stuapp/tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -498,7 +518,28 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/stuapp/myfilter.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" lean-forward="true" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stuapp/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stuapp/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
